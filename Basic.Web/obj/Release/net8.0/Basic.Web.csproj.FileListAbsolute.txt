@@ -1,0 +1,17 @@
+D:\CS\Restaurant\Basic.Web\bin\Release\net8.0\Basic.Web.deps.json
+D:\CS\Restaurant\Basic.Web\bin\Release\net8.0\Basic.Web.runtimeconfig.json
+D:\CS\Restaurant\Basic.Web\bin\Release\net8.0\Basic.Web.dll
+D:\CS\Restaurant\Basic.Web\bin\Release\net8.0\Basic.Web.pdb
+D:\CS\Restaurant\Basic.Web\bin\Release\net8.0\Basic.Core.dll
+D:\CS\Restaurant\Basic.Web\bin\Release\net8.0\Basic.Core.pdb
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.csproj.AssemblyReference.cache
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.AssemblyInfoInputs.cache
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.AssemblyInfo.cs
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.csproj.CoreCompileInputs.cache
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.csproj.Up2Date
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.dll
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\refint\Basic.Web.dll
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.pdb
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.genruntimeconfig.cache
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\ref\Basic.Web.dll

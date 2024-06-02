@@ -1,0 +1,14 @@
+D:\CS\Restaurant\Basic.Core\bin\Release\net8.0\Basic.Core.deps.json
+D:\CS\Restaurant\Basic.Core\bin\Release\net8.0\Basic.Core.runtimeconfig.json
+D:\CS\Restaurant\Basic.Core\bin\Release\net8.0\Basic.Core.dll
+D:\CS\Restaurant\Basic.Core\bin\Release\net8.0\Basic.Core.pdb
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.csproj.AssemblyReference.cache
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.AssemblyInfoInputs.cache
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.AssemblyInfo.cs
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.csproj.CoreCompileInputs.cache
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.dll
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\refint\Basic.Core.dll
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.pdb
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.genruntimeconfig.cache
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\ref\Basic.Core.dll
