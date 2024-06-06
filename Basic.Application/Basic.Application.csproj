@@ -7,10 +7,8 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="DTOs\" />
       <Folder Include="Interfaces\" />
       <Folder Include="Services\" />
-      <Folder Include="UseCases\" />
     </ItemGroup>
 
     <ItemGroup>
@@ -19,12 +17,11 @@
         <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0-preview.4.24267.1" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\Basic.Core\Basic.Core.csproj" />
-      <ProjectReference Include="..\Basic.Infrastructure\Basic.Infrastructure.csproj" />
-      <ProjectReference Include="..\Basic.Web\Basic.Web.csproj" />
     </ItemGroup>
 
 </Project>
