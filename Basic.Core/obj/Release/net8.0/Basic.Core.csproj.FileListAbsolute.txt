@@ -12,3 +12,4 @@ D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\refint\Basic.Core.dll
 D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.pdb
 D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.genruntimeconfig.cache
 D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\ref\Basic.Core.dll
+D:\CS\Restaurant\Basic.Core\obj\Release\net8.0\Basic.Core.sourcelink.json

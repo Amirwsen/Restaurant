@@ -1,8 +1,14 @@
 using Basic.Core.Entities;
-using Microsoft.EntityFrameworkCore;
+
 namespace Basic.Core.Interfaces;
 
-public class IRestaurantRepository
+public interface IRestaurantRepository // Making a list of our DB structure
 {
-    IQueryable<RMenu> Menus { get; }
+    Task<List<RMenu>> GetAllMenus();
+
+    Task<RMenu> AddToMenu(RMenu rMenu);
+
+    Task<RMenu> ChangeMenu(RMenu rMenu);
+
+    Task DeleteFromMenu(long id);
 }

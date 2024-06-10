@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Basic.Core.Entities;
 
-public class RMenu
+public class RMenu // make a structure for creating DB
 {
     public long Id { get; set; }
     public string FoodName { get; set; } = string.Empty;

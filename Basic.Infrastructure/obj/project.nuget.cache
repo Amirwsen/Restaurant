@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XGoNFLpQz2IHRpNAEU5bgbXX/c93vdZL0pz480vE4y/ddpvNWoLD8ysbMODvw6yYI0iwO6pDAWlseQh20r/AYg==",
+  "dgSpecHash": "KJhvRUj8yWiJUrFw4/IU4Li8YiMn38AwuhO9hlVfLgvkL7RkPa1trcxAWFZEUwTqzeKf92sFqcMLd7LXUjZy9Q==",
   "success": true,
   "projectFilePath": "D:\\CS\\Restaurant\\Basic.Infrastructure\\Basic.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\ahagh\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\ahagh\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\ahagh\\.nuget\\packages\\mono.texttemplating\\3.0.0-preview-0052-g5d0f76c785\\mono.texttemplating.3.0.0-preview-0052-g5d0f76c785.nupkg.sha512",
+    "C:\\Users\\ahagh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ahagh\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\ahagh\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\ahagh\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",

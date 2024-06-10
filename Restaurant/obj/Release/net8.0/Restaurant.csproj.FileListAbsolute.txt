@@ -156,3 +156,4 @@ D:\CS\Restaurant\Restaurant\obj\Release\net8.0\refint\Restaurant.dll
 D:\CS\Restaurant\Restaurant\obj\Release\net8.0\Restaurant.pdb
 D:\CS\Restaurant\Restaurant\obj\Release\net8.0\Restaurant.genruntimeconfig.cache
 D:\CS\Restaurant\Restaurant\obj\Release\net8.0\ref\Restaurant.dll
+D:\CS\Restaurant\Restaurant\obj\Release\net8.0\Restaurant.sourcelink.json

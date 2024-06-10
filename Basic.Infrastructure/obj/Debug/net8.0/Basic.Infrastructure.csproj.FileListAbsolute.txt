@@ -3,9 +3,7 @@ D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Infrastructure.runt
 D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Infrastructure.dll
 D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Infrastructure.pdb
 D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Core.dll
-D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Web.dll
 D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Core.pdb
-D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Web.pdb
 D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\Basic.Infrastructure.csproj.AssemblyReference.cache
 D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\Basic.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
 D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\Basic.Infrastructure.AssemblyInfoInputs.cache
@@ -17,3 +15,12 @@ D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\refint\Basic.Infrastructu
 D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\Basic.Infrastructure.pdb
 D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\Basic.Infrastructure.genruntimeconfig.cache
 D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\ref\Basic.Infrastructure.dll
+D:\CS\Restaurant\Basic.Infrastructure\obj\Debug\net8.0\Basic.Infrastructure.sourcelink.json
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Application.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Debug\net8.0\Basic.Application.pdb

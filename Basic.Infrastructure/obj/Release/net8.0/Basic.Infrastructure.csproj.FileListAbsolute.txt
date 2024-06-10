@@ -17,3 +17,10 @@ D:\CS\Restaurant\Basic.Infrastructure\obj\Release\net8.0\refint\Basic.Infrastruc
 D:\CS\Restaurant\Basic.Infrastructure\obj\Release\net8.0\Basic.Infrastructure.pdb
 D:\CS\Restaurant\Basic.Infrastructure\obj\Release\net8.0\Basic.Infrastructure.genruntimeconfig.cache
 D:\CS\Restaurant\Basic.Infrastructure\obj\Release\net8.0\ref\Basic.Infrastructure.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Release\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Release\net8.0\System.IO.Pipelines.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Release\net8.0\Microsoft.Extensions.Features.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Release\net8.0\Microsoft.AspNetCore.Http.Features.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Release\net8.0\Microsoft.Net.Http.Headers.dll
+D:\CS\Restaurant\Basic.Infrastructure\bin\Release\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\CS\Restaurant\Basic.Infrastructure\obj\Release\net8.0\Basic.Infrastructure.sourcelink.json

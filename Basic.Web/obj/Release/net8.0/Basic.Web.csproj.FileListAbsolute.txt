@@ -15,3 +15,4 @@ D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\refint\Basic.Web.dll
 D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.pdb
 D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.genruntimeconfig.cache
 D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\ref\Basic.Web.dll
+D:\CS\Restaurant\Basic.Web\obj\Release\net8.0\Basic.Web.sourcelink.json

@@ -156,3 +156,10 @@ D:\CS\Restaurant\Restaurant\obj\Debug\net8.0\refint\Restaurant.dll
 D:\CS\Restaurant\Restaurant\obj\Debug\net8.0\Restaurant.pdb
 D:\CS\Restaurant\Restaurant\obj\Debug\net8.0\Restaurant.genruntimeconfig.cache
 D:\CS\Restaurant\Restaurant\obj\Debug\net8.0\ref\Restaurant.dll
+D:\CS\Restaurant\Restaurant\obj\Debug\net8.0\Restaurant.sourcelink.json
+D:\CS\Restaurant\Restaurant\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\CS\Restaurant\Restaurant\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\CS\Restaurant\Restaurant\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CS\Restaurant\Restaurant\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\CS\Restaurant\Restaurant\bin\Debug\net8.0\Swashbuckle.AspNetCore.Newtonsoft.dll
+D:\CS\Restaurant\Restaurant\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

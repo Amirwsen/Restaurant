@@ -14,7 +14,7 @@ public class AddToMenu
         _restaurantRepository = restaurantRepository;
     }
 
-    public async Task<ShowData> CreateNewMenuItem(ShowDataRequest showData)
+    public async Task<ShowData> CreateNewMenuItem(ShowDataRequest showData, CancellationToken cancellationToken)
     {
         var newRecord = await _restaurantRepository.AddToMenu(new RMenu
         {
